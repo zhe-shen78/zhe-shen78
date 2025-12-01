@@ -16,9 +16,9 @@
 ## 📂 My Projects
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[Math-Modeling-2025](./)** | 全国大学生数学建模竞赛省一等奖项目，基于AI辅助的复杂系统建模。 | Python, Modeling |
-| **[Titanic-Survival-Prediction](./)** | Kaggle经典的泰坦尼克号生存预测，包含特征工程与随机森林模型。 | Pandas, Sklearn |
-| **[sql-study](./)** | 记录了LeetCode SQL 50题的解题思路与MySQL窗口函数总结。 | MySQL |
+| **[Math-Modeling-2025](https://github.com/zhe-shen78/Math-Modeling-2025)** | 全国大学生数学建模竞赛省一等奖项目，基于AI辅助的复杂系统建模。 | Python, Modeling |
+| **[Titanic-Survival-Prediction](https://github.com/zhe-shen78/Titanic-Survival-Prediction)** | Kaggle经典的泰坦尼克号生存预测，包含特征工程与随机森林模型。 | Pandas, Sklearn |
+| **[sql-study](https://github.com/zhe-shen78/sql-study)** | 记录了LeetCode SQL 50题的解题思路与MySQL窗口函数总结。 | MySQL |
 
 ---
 📫 **Contact Me**: [zhes01689@gmail.com]
